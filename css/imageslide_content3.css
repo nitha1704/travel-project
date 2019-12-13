@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300');
+
+
+/******* Image Slide Content 3 *******/
+h1 {
+   font-family: 'Montserrat';
+}
+.carousel-nav-icon {
+   height: 48px;
+   width: 48px;
+}
+.col-lg {
+    margin: 8px;
+    height: 400px;
+    background-size: cover;
+    background-position: center;   
+}
+.slideCarousel p {
+    position:absolute;
+    bottom:50px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-shadow: 1px 1.732px 8px rgba(0, 0, 0, 1);
+    color: #fff;
+    padding:0px 10px !important;
+}
+
+
+
+
+
+
+
+
+
